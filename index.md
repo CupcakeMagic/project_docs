@@ -45,8 +45,8 @@ explains the basic structure of these sites. Then read
 read any of the other things, such as
 [how to test your site locally](pages/local_test.html).
 
-- [ModItemGlobalEffects.md.html](ModItemGlobalEffects.md.html)
-- [ModItemLightmodel.md.html](ModItemLightmodel.md.html)
+- [ModItemGlobalEffects.md](ModItemGlobalEffects.md)
+- [ModItemLightmodel.md](ModItemLightmodel.md)
 
 If anything here is confusing (or _wrong_!), or if I've missed
 important details, please
